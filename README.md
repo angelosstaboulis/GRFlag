@@ -1,4 +1,8 @@
 # GRFlag
 I made this simple SwiftUI app as a sample for metal shaders
-Uploading Simulator Screen Recording - iPhone 15 Pro - 2024-04-29 at 17.09.51.mp4…
+
+
+
+
+https://github.com/angelosstaboulis/GRFlag/assets/79055304/7645c83b-3974-47b3-992b-6b1e664345bf
 
